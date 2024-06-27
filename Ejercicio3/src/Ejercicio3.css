@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.controles {
+    margin-bottom: 20px;
+}
+
+.controles label {
+    margin-right: 10px;
+}
+
+.box {
+    background-color: rgb(255, 243, 243);
+    border: 1px solid rgb(255, 0, 0);
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    min-width: 50px;
+}
+
+.contenedor {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    min-height: 200px;
+}
